@@ -28,8 +28,6 @@ Welcome to the Tax Filing Management App, a cutting-edge Android application des
 
 ## Technical Details
 
-## Technical Details
-
 ### Room Database
 
 The app leverages Room, the Android persistence library, for efficient data storage and retrieval. The `AppDatabase` class manages the Room database, while the `UserDAO` interface defines data access operations.
