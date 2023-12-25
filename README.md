@@ -48,6 +48,10 @@ The `UserService` class encapsulates database operations, such as inserting, upd
 
 The `MainActivity` orchestrates the Home Screen, fetching and displaying customer data. Swipe-to-delete functionality is implemented using ItemTouchHelper. The `CustomerDetails` activity provides a detailed view of customer information with options to update data.
 
+## Academic Integrity
+
+This repository is a testament to academic achievement and adherence to integrity. It was created for educational purposes, showcasing proficiency in web development concepts and practices. It is essential to maintain academic integrity and not engage in any form of plagiarism or cheating. Feel free to explore the codebase and run the application to experience the functionalities firsthand.
+
 
 ---
 
